@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Course Registration App</string>
+
+    <!-- Login/Register Screens -->
+    <string name="hint_student_id">Student ID</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="action_admin_login">Admin Login</string>
+    <string name="text_register_prompt">New student? Register here</string>
+    <string name="text_login_prompt">Already registered? Login here</string>
+
+    <!-- Main Screen -->
+    <string name="title_course_registration">Course Registration</string>
+    <string name="action_register_course">Register for Course</string>
+    <string name="action_view_registrations">View My Registrations</string>
+    <string name="action_logout">Logout</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+
+    <!-- Confirmation Screen -->
+    <string name="title_registration_confirmation">Registration Confirmation</string>
+    <string name="text_confirmation">You have successfully registered for the course.</string>
+    <string name="text_course_info">Course: %1$s</string>
+    <string name="text_back_to_main">Back to Course Selection</string>
+    <string name="student_id_display">Student ID: %s</string>
+    <string name="course_display">Course: %s</string>
+
+    <!-- Admin Screen -->
+    <string name="title_admin_dashboard">Admin Dashboard</string>
+    <string name="title_registered_students">Registered Students</string>
+
+    <!-- Error Messages -->
+    <string name="error_invalid_credentials">Invalid student ID or password</string>
+    <string name="error_passwords_dont_match">Passwords don\'t match</string>
+    <string name="error_fields_required">All fields are required</string>
+    <string name="error_student_id_exists">Student ID already exists</string>
+    <string name="error_registration_failed">Registration failed, please try again</string>
+    <string name="error_already_registered">You are already registered for this course</string>
+
+    <!-- Success Messages -->
+    <string name="success_registration">Registration successful!</string>
+
+    <!-- Admin Credentials -->
+    <string name="admin_id">admin</string>
+    <string name="admin_password">admin123</string>
+    <string name="university_logo">university logo</string>
+
+    <!-- Course List -->
+    <string-array name="course_array">
+        <item>CS101 - Introduction to Programming</item>
+        <item>CS201 - Data Structures</item>
+        <item>CS301 - Database Systems</item>
+        <item>CS401 - Software Engineering</item>
+        <item>CS501 - Artificial Intelligence</item>
+        <item>CS601 - Mobile App Development</item>
+    </string-array>
+</resources>

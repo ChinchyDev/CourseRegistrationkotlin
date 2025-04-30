@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Theme.CourseRegistrationApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary branding color. -->
+        <item name="colorPrimary">#8EBBFF</item>
+        <item name="colorOnPrimary">#24293E</item>
+
+        <!-- Secondary branding color -->
+        <item name="colorSecondary">#CCCCCC</item>
+        <item name="colorOnSecondary">#24293E</item>
+
+        <!-- Background color -->
+        <item name="android:colorBackground">#24293E</item>
+        <item name="colorSurface">#24293E</item>
+        <item name="colorOnSurface">#F4F5FC</item>
+
+        <!-- Error color -->
+        <item name="colorError">@android:color/holo_red_light</item>
+
+        <!-- Text color -->
+        <item name="android:textColor">#67b9c9</item>
+
+        <!-- Default styles for TextView and Button -->
+        <item name="android:buttonStyle">@style/AppButtonStyle</item>
+        <item name="android:textViewStyle">@style/AppTextViewStyle</item>
+        <item name="android:fontFamily">@font/silence_rainbow</item>
+        <item name="editTextStyle">@style/AppEdittextStyle</item>
+
+    </style>
+
+    <!-- NoActionBar version -->
+    <style name="Theme.CourseRegistrationApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
