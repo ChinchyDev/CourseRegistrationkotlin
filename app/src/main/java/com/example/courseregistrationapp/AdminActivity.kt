@@ -23,7 +23,7 @@ class AdminActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_admin)
 
-        // Hide action bar for cleaner UI
+        // Hide action bar
         supportActionBar?.hide()
 
         // Initialize data manager

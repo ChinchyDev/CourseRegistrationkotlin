@@ -25,7 +25,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        // Hide action bar for cleaner UI
+        // Hide action bar f
         supportActionBar?.hide()
 
         // Initialize data manager

@@ -1,3 +1,6 @@
+/*this was not necessary but it was a fun challenge. Splash screens
+are not supported from android 12 and later*/
+
 package com.example.courseregistrationapp
 
 import android.content.Intent
@@ -15,7 +18,7 @@ class SplashActivity : AppCompatActivity() {
         // Hide action bar for splash screen
         supportActionBar?.hide()
 
-        // Delay for 2 seconds then navigate to login screen
+        // Delay for 3 seconds
         Handler(Looper.getMainLooper()).postDelayed({
             startActivity(Intent(this, LoginActivity::class.java))
             finish()

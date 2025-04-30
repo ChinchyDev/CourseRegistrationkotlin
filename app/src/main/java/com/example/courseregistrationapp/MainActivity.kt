@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Hide action bar for cleaner UI
+        // Hide action bar
         supportActionBar?.hide()
 
         // Get student ID from intent

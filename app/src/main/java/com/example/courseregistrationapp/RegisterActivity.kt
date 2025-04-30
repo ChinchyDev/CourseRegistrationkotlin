@@ -25,7 +25,7 @@ class RegisterActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_register)
 
-        // Hide action bar for cleaner UI
+        // Hide action bar
         supportActionBar?.hide()
 
         // Initialize data manager

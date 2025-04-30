@@ -16,7 +16,7 @@ class ConfirmationActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_confirmation)
 
-        // Hide action bar for cleaner UI
+        // Hide action bar
         supportActionBar?.hide()
 
         // Get data from intent
