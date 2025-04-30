@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/xml_backup_rules.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/layout_activity_register.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/layout_activity_admin.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/layout_activity_login.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.courseregistrationapp-pngs-58:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/drawable_background.jpg.flat",
+        "source": "com.example.courseregistrationapp-main-64:/drawable/background.jpg"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/font_silence_rainbow.otf.flat",
+        "source": "com.example.courseregistrationapp-main-64:/font/silence_rainbow.otf"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/drawable_university_icon.png.flat",
+        "source": "com.example.courseregistrationapp-main-64:/drawable/university_icon.png"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/layout_activity_confirmation.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/layout/activity_confirmation.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/layout_activity_splash.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/layout_item_registration.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/layout/item_registration.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.courseregistrationapp-main-64:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.courseregistrationapp-debug-62:/layout_activity_main.xml.flat",
+        "source": "com.example.courseregistrationapp-main-64:/layout/activity_main.xml"
+    }
+]

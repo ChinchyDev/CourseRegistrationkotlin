@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course_array">
+        <item>CS101 - Introduction to Programming</item>
+        <item>CS201 - Data Structures</item>
+        <item>CS301 - Database Systems</item>
+        <item>CS401 - Software Engineering</item>
+        <item>CS501 - Artificial Intelligence</item>
+        <item>CS601 - Mobile App Development</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="dark_background">#63AAEA</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_admin_login">Admin Login</string>
+    <string name="action_login">Login</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_register">Register</string>
+    <string name="action_register_course">Register for Course</string>
+    <string name="action_view_registrations">View My Registrations</string>
+    <string name="admin_id">admin</string>
+    <string name="admin_password">admin123</string>
+    <string name="app_name">Course Registration App</string>
+    <string name="course_display">Course: %s</string>
+    <string name="error_already_registered">You are already registered for this course</string>
+    <string name="error_fields_required">All fields are required</string>
+    <string name="error_invalid_credentials">Invalid student ID or password</string>
+    <string name="error_passwords_dont_match">Passwords don\'t match</string>
+    <string name="error_registration_failed">Registration failed, please try again</string>
+    <string name="error_student_id_exists">Student ID already exists</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_student_id">Student ID</string>
+    <string name="student_id_display">Student ID: %s</string>
+    <string name="success_registration">Registration successful!</string>
+    <string name="text_back_to_main">Back to Course Selection</string>
+    <string name="text_confirmation">You have successfully registered for the course.</string>
+    <string name="text_course_info">Course: %1$s</string>
+    <string name="text_login_prompt">Already registered? Login here</string>
+    <string name="text_register_prompt">New student? Register here</string>
+    <string name="title_admin_dashboard">Admin Dashboard</string>
+    <string name="title_course_registration">Course Registration</string>
+    <string name="title_registered_students">Registered Students</string>
+    <string name="title_registration_confirmation">Registration Confirmation</string>
+    <string name="university_logo">university logo</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <style name="AppButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">#8EBBFF</item>
+        <item name="android:textColor">#35197E</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+    <style name="AppEdittextStyle" parent="Widget.AppCompat.EditText">
+    <item name="android:textColor">#327FC4</item>
+    <item name="android:textColorHint">#327FC4</item>
+    <item name="android:backgroundTint">#8EBBFF</item>
+    <item name="android:fontFamily">@font/silence_rainbow</item>
+</style>
+    <style name="AppTextViewStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">#327FC4</item>
+        <item name="android:textSize">16sp</item>
+
+    </style>
+    <style name="Theme.CourseRegistrationApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#8EBBFF</item>
+        <item name="colorOnPrimary">#24293E</item>
+
+        
+        <item name="colorSecondary">#CCCCCC</item>
+        <item name="colorOnSecondary">#24293E</item>
+
+        
+        <item name="android:colorBackground">#24293E</item>
+        <item name="colorSurface">#24293E</item>
+        <item name="colorOnSurface">#F4F5FC</item>
+
+        
+        <item name="colorError">@android:color/holo_red_light</item>
+
+        
+        <item name="android:textColor">#67b9c9</item>
+
+        
+        <item name="android:buttonStyle">@style/AppButtonStyle</item>
+        <item name="android:textViewStyle">@style/AppTextViewStyle</item>
+        <item name="android:fontFamily">@font/silence_rainbow</item>
+        <item name="editTextStyle">@style/AppEdittextStyle</item>
+
+    </style>
+    <style name="Theme.CourseRegistrationApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
